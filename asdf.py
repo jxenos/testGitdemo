@@ -1,24 +1,8 @@
-asd fqwe qwfe asd fas df asdf
-
-
-asdf 
-
-
-
-asdf
-
-asd
-a
-sdf
-asd
-f
-asdf
-
 #imports
  import pandas as pd 
 
 #funcitons
-def HelloWorld():
+def hello_world():
     print("hello world")
 
 def asdf():
@@ -26,4 +10,4 @@ def asdf():
 
 #init
 if __name__ == "__main__":
-    HelloWorld()
+    hello_world()
